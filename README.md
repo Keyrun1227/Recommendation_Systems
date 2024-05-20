@@ -28,6 +28,4 @@ To get started with the recommendation system projects, follow these steps:
 
 If you'd like to contribute to this repository, feel free to create a new branch, make your changes, and submit a pull request. I appreciate any feedback, improvements, or additional recommendation system projects you'd like to add.
 
-
-
 Happy exploring! 🌟
