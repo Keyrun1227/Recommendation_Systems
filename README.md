@@ -2,11 +2,12 @@
 
 This repository contains various recommendation system projects that I have worked on for practice and learning purposes. Recommendation systems are an important and widely-used application of machine learning and data science, and they are used in a variety of domains, such as e-commerce, entertainment, and healthcare.
 
-The repository includes the following recommendation system projects:
-
 ## [Fashion Recommendation System](https://github.com/Keyrun1227/FashionVision-Recommender) 👗
 
 The [Fashion Recommendation System](https://github.com/Keyrun1227/FashionVision-Recommender) project focuses on providing personalized recommendations for fashion items, such as clothes and accessories. Users can input their preferences, and the system will suggest new items they might be interested in based on their past interactions and the preferences of similar users.
+
+
+The repository includes the following recommendation system projects:
 
 ## Movie Recommendation System 🎥
 
